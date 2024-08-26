@@ -13,7 +13,7 @@ This application allows users to search for localities and view detailed weather
 
 ## A sneak peek into what we have here!
 
-Visit the website at: 
+Visit the website at: https://olog-n-assignment.vercel.app/
 
 ### Home Page (Desktp view)
 <img src="readmeassets/home.png" width="500px" >
